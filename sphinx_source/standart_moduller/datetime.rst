@@ -203,7 +203,7 @@ Yukarıdaki biçimlendiricilerle ilgili birkaç örnek verelim::
 
     '2014'
 
-    >>> datetime.datetime.strftime(an, %'X') # Saat
+    >>> datetime.datetime.strftime(an, '%X') # Saat
 
     '12:26:32'
 
